@@ -1,0 +1,2 @@
+Multi-alpha strategy blends long/short alphas; plans ML for dynamic weighting.
+
