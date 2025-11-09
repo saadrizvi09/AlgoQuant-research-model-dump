@@ -2,7 +2,7 @@
 from AlgorithmImports import *
 from alpha import *
 from PortfolioConstructor import MLP_PortfolioConstructionModel
-# endregion
+
 
 
 class LiquidEquityAlgorithm(QCAlgorithm):
